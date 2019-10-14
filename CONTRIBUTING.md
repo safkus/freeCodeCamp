@@ -51,8 +51,6 @@ You can help us:
 
 Guide articles help you get a quick understanding of a technology concept. These are short, plain-English explanations that you can read before going on to more in-depth resources.
 
-You can find an [example article about HTML Anchor Elements here](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/guide/english/html/elements/a-tag/index.md).
-
 **What can I write an article about?**
 
 We welcome your help writing these articles. You don't have to be an expert in a topic to write about it—this entire Guide is open source, so even if you make a mistake, another contributor will eventually correct it.
